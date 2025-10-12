@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou Mauro Andrade!
 
-<!--
-**Maurobatist/maurobatist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou professor de **Informática e Desenvolvimento de Sistemas** no ensino técnico, com experiência em:
+- 🖥️ Redes de Computadores  
+- 🌐 Desenvolvimento Web (HTML, CSS, JS, PHP, Laravel)
+- ⚙️ Administração de Servidores
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Conteúdo de Disciplinas
+
+Aqui você encontra os materiais que uso em sala de aula 👇
+
+| Disciplina | Repositório |
+|-------------|--------------|
+| Github | [🔗 Ver Repositório](https://github.com/mauroandrade/redes-de-computadores) |
+---
+
+## 📫 Contato
+- ✉️ **Email:** maurobatistandrade@gmail.com  
+- 🌎 **LinkedIn:** [linkedin.com/in/maurobatist](https://www.linkedin.com/in/maurobatist/)
