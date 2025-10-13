@@ -13,7 +13,7 @@ Aqui você encontra os materiais que uso em sala de aula 👇
 
 | Disciplina | Repositório |
 |-------------|--------------|
-| Github | [🔗 Ver Repositório](https://github.com/mauroandrade/redes-de-computadores) |
+| Github | [🔗 Ver Repositório](https://github.com/Maurobatist/Github) |
 ---
 
 ## 📫 Contato
